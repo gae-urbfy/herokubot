@@ -17,5 +17,8 @@ handlers:
 - url: /(.+\.php)$
   script: \1
 
+- url: /assets
+  static_dir: assets
+
 - url: /wakeup
   script: index.php

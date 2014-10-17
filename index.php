@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>HerokuBot</title>
-	<link rel="stylesheet" type="text/css" href="https://d4yt8xl9b7in.cloudfront.net/assets/application-cf87f0cc4846443bf758750e2cc27ed6.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/style.css"/>
 	<style type="text/css">
 		body {
 			font-family: BentonSans;
