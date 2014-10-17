@@ -1,0 +1,4 @@
+cron:
+- description: wakeup call
+  url: /wakeup
+  schedule: every 10 minutes
