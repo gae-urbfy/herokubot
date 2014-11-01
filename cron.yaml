@@ -1,4 +1,4 @@
 cron:
 - description: wakeup cron
   url: /cron.php
-  schedule: every 5 minutes
+  schedule: every 25 minutes
