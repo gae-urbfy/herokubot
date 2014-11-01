@@ -1,4 +1,4 @@
 cron:
-- description: test dispatch vs target
- url: /wakeup.php
- schedule: every 5 mins
+- description: wakeup cron
+  url: /cron.php
+  schedule: every 5 minutes

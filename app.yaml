@@ -19,6 +19,3 @@ handlers:
 
 - url: /assets
   static_dir: assets
-
-- url: /wakeup.php
-  script: cron.php
